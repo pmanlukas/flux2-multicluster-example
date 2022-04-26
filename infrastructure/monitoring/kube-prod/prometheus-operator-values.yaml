@@ -7,5 +7,5 @@ spec:
   values:
     prometheus:
       prometheusSpec:
-        replicas: 3
+        replicas: 4
         retention: 30d
